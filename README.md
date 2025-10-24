@@ -182,14 +182,8 @@ This project is MIT licensed - use for personal, commercial, or educational purp
 ## 📞 Support
 
 - Issues: [GitHub Issues](https://github.com/your-username/job-quiz-app/issues)
-- Discord: [Join Community](https://discord.gg/your-link)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
 ⭐ Star this repo if it helped you!  
 Built with ❤️ for developers preparing for interviews worldwide.
-
----
-
-[Deploy to Vercel](https://vercel.com/new/clone?repository-url=https://github.com/your-username/job-quiz-app) | [Live Demo](https://your-app.vercel.app)
