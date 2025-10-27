@@ -20,7 +20,7 @@ export default function Button({
   type = "button",
 }: ButtonProps) {
   const baseClasses =
-    "px-4 py-2 text-sm font-medium rounded-md transition-colors";
+    "px-4 py-2 text-sm font-medium rounded-md transition-colors cursor-pointer";
 
   const variantClasses = {
     primary:
