@@ -12,7 +12,7 @@
 
 Job Interview Quiz App is a real-time, AI-powered interview preparation tool that generates customized multiple-choice questions (MCQs) based on any job description. 
 
-Transform any job posting into 5 targeted interview questions in seconds!  
+Transform any job posting into targeted interview questions in seconds!  
 Powered by [Groq AI](https://groq.com)
 
 ---
